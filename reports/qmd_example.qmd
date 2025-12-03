@@ -8,10 +8,10 @@ format:
   pdf:
     toc: true
 editor: source
+output-file: index.html
 execute:
   echo: false
 bibliography: references.bib
-output-file:index.html
 ---
 ```{python}
 import pandas as pd
